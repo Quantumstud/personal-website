@@ -24,7 +24,7 @@ feature:
   icon: laptop-code
   icon_pack: fas
   name: Computational Modeling
-- description: 10%
+- description: 
   icon: microchip
   icon_pack: fas
   name: Data Processing
