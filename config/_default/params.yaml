@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: minimal
+theme: Cyberpunk
 day_night: true
-font: ''
-font_size: L
+font: 'Mr Robot'
+font_size: l
 
 # SEO
 
@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: tara.13.1996@gmail.com
-phone: 888 888 88 88
+email: tara.matsci@gmail.com
+phone: 
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -79,7 +79,7 @@ highlight_languages:
   - r
 math: false
 diagram: false
-privacy_pack: false
+privacy_pack: true
 edit_page:
   repo_url: ''
   content_dir: ''

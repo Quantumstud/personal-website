@@ -2,7 +2,8 @@
 # An instance of the Tag Cloud widget.
 # Docs: https://wowchemy.com/docs/page-builder/
 widget: tag_cloud
-
+#Activate or deactivate 
+active: false
 # This file represents a page section.
 headless: true
 

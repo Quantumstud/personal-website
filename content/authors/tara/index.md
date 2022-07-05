@@ -67,7 +67,7 @@ email: "tara@u.nus.edu"
 highlight_name: true
 ---
 
-Tara Mishra is a graduate student at the Singapore(NUS)-MIT Alliance for Research and Technology. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an incoming postdoctoral researcher at Lawrence Berkeley National Lab. I completed my doctoral research at the Singapore(NUS)-MIT Alliance for Research and Technology. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 

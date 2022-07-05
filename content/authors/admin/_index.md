@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:tara.matsci@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tara_1391996
@@ -67,7 +67,7 @@ email: "tara@u.nus.edu"
 highlight_name: true
 ---
 
-Tara Mishra is a graduate student at the Singapore(NUS)-MIT Alliance for Research and Technology. 
+I am an incoming postdoctoral researcher at Lawrence Berkeley National Lab, Berkeley. I completed my PhD at the Singapore(NUS)-MIT Alliance for Research and Technology. 
 
 
 
