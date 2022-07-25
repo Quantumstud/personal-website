@@ -6,15 +6,15 @@ title: Tara Mishra
 superuser: true
 
 # Role/position/tagline
-role: Graduate student
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Singapore (NUS)- MIT Alliance for Research and Technology
-  url: https://smart.mit.edu/
+- name: Lawrence Berkeley National Lab
+  url: https://www.lbl.gov/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational modelling and atomic resolution electron microscopy in materials.
+bio: My research interests include computational modeling and atomic resolution electron microscopy in materials.
 
 # Interests to show in About widget
 interests:
@@ -61,13 +61,13 @@ social:
   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "tara@u.nus.edu"
+email: "tpmishra@lbl.gov"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am an incoming postdoctoral researcher at Lawrence Berkeley National Lab, Berkeley. I completed my PhD at the Singapore(NUS)-MIT Alliance for Research and Technology. 
+I am a postdoctoral researcher at Lawrence Berkeley National Laboratory. 
 
 
 
