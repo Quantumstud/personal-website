@@ -67,7 +67,9 @@ email: "tpmishra@lbl.gov"
 highlight_name: true
 ---
 
-I am a postdoctoral researcher at Lawrence Berkeley National Laboratory. 
+I am a postdoctoral researcher at Lawrence Berkeley National Laboratory. I have worked extensively in atomic resolved microscopy techniques such as aberration-corrected STEM imaging and EELS spectroscopy. I develop software toolkits for image analysis and data processing for the complex signals generated from a microscope and other characterization techniques. I have had experience in computational modeling which includes density functional theory (DFT), thermodynamic properties determination using Monte Carlo techniques, and transport property determination using kinetic Monte Carlo (kMC) techniques. 
+
+I look forward to developing interesting and novel materials for the future by atomic engineering of the materials.
 
 
 
