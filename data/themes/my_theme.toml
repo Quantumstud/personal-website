@@ -2,25 +2,25 @@
 name = "my_theme"
 
 # Is theme light or dark?
-light = true
+light = false
 
 # Primary
-primary = "#000000"
+primary = "#0000FF"
 
 # Menu
-menu_primary = "#000000"
-menu_text = "#ffffff"
-menu_text_active = "#ffffff"
+menu_primary = "#0000FF"
+menu_text = "#0000FF"
+menu_text_active = "#0000FF"
 menu_title = "#ffffff"
 
 # Backgrounds
-background = "#F2F2F2"
+background = "#0000FF"
 home_section_odd = "#F7F7F7"
 home_section_even = "#F7F7F7"
 
-dark_background = ""
-dark_home_section_odd = ""
-dark_home_section_even = ""
+dark_background = "#0000FF"
+dark_home_section_odd = "#0000FF"
+dark_home_section_even = "#0000FF"
 
-link = "#D90429"
-link_hover = "#118AB2"
+link = "#0000FF"
+link_hover = "#0000FF"
